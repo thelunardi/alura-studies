@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "plugins": [{ "name": "typescrit-plugin-css-modules" }],
     "target": "es5",
     "lib": [
       "dom",
